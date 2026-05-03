@@ -1,2 +1,3 @@
-# Soku_KeroPlayAC
-KeroPlay AutoConnect Mod
+这是一个模组下载仓库
+主要存储KPAC(KeroPlayAutoConnect)MOD
+配合KP客户端使用以实现匹配对战
