@@ -59,5 +59,21 @@
             "全人类",
             "材质"
         ]
+    },
+    "妖梦半灵错位修正": {
+        "file": "shady-loader/modules/妖梦半灵错位修正.zip",
+        "version": "2.1.1",
+        "creator": "三回転 Tstar 鱼蛙 Fishuwako",
+        "description": "修正半灵错位、磷气斩特效方向、幽冥横线竖线特效、起身开SC时出圈特效闪耀",
+        "preview": "shady-loader/resources/妖梦半灵错位修正/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "优化",
+            "妖梦",
+            "半灵",
+            "模组",
+            "特效"
+        ]
     }
 }
