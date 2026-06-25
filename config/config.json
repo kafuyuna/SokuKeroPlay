@@ -1,0 +1,31 @@
+{
+    "更好的调试": {
+        "file": "shady-loader/modules/更好的调试选项.zip",
+        "version": "1.1",
+        "creator": "鱼蛙 Fishuwako",
+        "description": "游戏内按F8切换<br>显示更多调试信息<br>仅非对战模式可用",
+        "preview": "shady-loader/resources/更好的调试选项/preview.png",
+        "islarge": false,
+        "largefile": null,
+        "tags":
+        [
+            "调试",
+            "工具",
+            "信息显示"
+        ]
+    },
+    "更好的回放菜单": {
+        "file": "shady-loader/modules/更好的回放菜单.zip",
+        "version": "1.1",
+        "creator": "鱼蛙 Fishuwako",
+        "description": "更宽更多信息显示的回放菜单",
+        "preview": "shady-loader/resources/更好的回放菜单/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "工具",
+            "优化",
+            "菜单"
+        ]
+    }
+}
