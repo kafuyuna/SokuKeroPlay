@@ -11,7 +11,8 @@
         [
             "调试",
             "工具",
-            "信息显示"
+            "信息显示",
+            "模组"
         ]
     },
     "更好的回放菜单": {
@@ -25,7 +26,38 @@
         [
             "工具",
             "优化",
-            "菜单"
+            "菜单",
+            "模组"
+        ]
+    },
+    "叉子的配色包A版": {
+        "file": "shady-loader/modules/叉子的配色包A版.zip",
+        "version": "1.0",
+        "creator": "叉子X",
+        "description": "全人类八种配色<br>完整配色展示: BV1KedKYgEaL",
+        "preview": "shady-loader/resources/叉子的配色包A版/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "配色",
+            "全人类",
+            "材质"
+        ]
+    },
+    "叉子的配色包B版": {
+        "file": "shady-loader/modules/叉子的配色包B版.zip",
+        "version": "1.0",
+        "creator": "叉子X",
+        "description": "全人类八种配色<br>完整配色展示: BV1KedKYgEaL",
+        "preview": "shady-loader/resources/叉子的配色包B版/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "配色",
+            "全人类",
+            "材质"
         ]
     }
 }
