@@ -75,5 +75,57 @@
             "模组",
             "特效"
         ]
+    },
+    "大鲶鱼替换萃香": {
+        "file": "modules/大鲶鱼替换萃香.zip",
+        "version": "1.0",
+        "creator": "拉夸 Laqua",
+        "description": "将系统卡的大鲶鱼替换为巨大萃香",
+        "preview": "shady-loader/resources/大鲶鱼替换萃香/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "萃香",
+            "鲶鱼"
+        ]
+    },
+    "去除早苗飞翔风特效": {
+        "file": "modules/去除早苗飞翔风特效.zip",
+        "version": "1.0",
+        "creator": "三回転 Tstar",
+        "description": "去除早苗飞翔时的风特效",
+        "preview": "shady-loader/resources/去除早苗飞翔风特效/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "早苗",
+            "特效"
+        ]
+    },
+    "去除烈日特效": {
+        "file": "modules/去除烈日特效.zip",
+        "version": "1.1",
+        "creator": "三回転 Tstar",
+        "description": "去除烈日特效",
+        "preview": "shady-loader/resources/去除烈日特效/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "特效",
+            "天气"
+        ]
+    },
+    "彗星扫帚替换魔理沙": {
+        "file": "modules/彗星扫帚替换魔理沙.zip",
+        "version": "1.0",
+        "creator": "拉夸 Laqua",
+        "description": "将原魔理沙五卡彗星替换为魔理沙骑乘扫帚",
+        "preview": "shady-loader/resources/彗星扫帚替换魔理沙/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "魔理沙",
+            "特效"
+        ]
     }
 }
