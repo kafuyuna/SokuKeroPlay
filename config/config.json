@@ -127,5 +127,19 @@
             "魔理沙",
             "特效"
         ]
+    },
+    "15周年选人界面": {
+        "file": "modules/15周年选人界面.zip",
+        "version": "1.0",
+        "creator": "妖精小姐, Yorumeow@B站 , 三回転 Tstar",
+        "description": "竖版，请放在高优先级<br>出处：pixiv user id 972314 (ERykk) = 微博@半退休鲞鱼摊贩",
+        "preview": "shady-loader/resources/15周年选人界面/preview.png",
+        "islarge": false,
+        "tags":
+        [
+            "美化",
+            "界面",
+            "选人"
+        ]
     }
 }
